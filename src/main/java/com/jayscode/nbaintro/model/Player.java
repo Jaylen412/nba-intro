@@ -15,5 +15,6 @@ public class Player {
     private UUID playerId;
     private String playerName;
     private String position;
+    private Team team;
 
 }
